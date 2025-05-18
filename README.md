@@ -60,3 +60,11 @@ Os principais resultados estão consolidados na apresentação (PowerPoint) entr
 ## 🏃‍♂️ Como Executar
 
 1. Abra as pasta "noteobook", baixe o arquivo .ipynb e execute  em Jupyter, VSCode ou Colab.
+
+---
+
+## 📅 Autor
+Otávio Guedes
+Cientista de Dados em transição de carreira, focado em projetos práticos de ponta a ponta.
+
+Acesse o [meu perfil no LinkedIn](https://www.linkedin.com/in/otaviomendesguedes/)
