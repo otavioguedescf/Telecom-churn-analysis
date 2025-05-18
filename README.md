@@ -65,6 +65,7 @@ Os principais resultados estão consolidados na apresentação (PowerPoint) entr
 
 ## 📅 Autor
 Otávio Guedes
+
 Cientista de Dados em transição de carreira, focado em projetos práticos de ponta a ponta.
 
 Acesse o [meu perfil no LinkedIn](https://www.linkedin.com/in/otaviomendesguedes/)
