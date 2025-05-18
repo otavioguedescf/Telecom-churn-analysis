@@ -5,7 +5,7 @@ Este repositório apresenta uma análise completa sobre o churn de clientes em u
 ---
 
 ## 🌐 Objetivo
-A empresa de telecomunicações contratou a A3Data para avaliar o cenário de churn elevado dos seus clientes. Como o produto possui um alto custo de instalação (setup), a empresa busca estratégias para reduzir esse churn. Este projeto visa identificar padrões de comportamento, fatores críticos e propor recomendações com base nos dados.
+A empresa de telecomunicações contratou a consultoria para avaliar o cenário de churn elevado dos seus clientes. Como o produto possui um alto custo de instalação (setup), a empresa busca estratégias para reduzir esse churn. Este projeto visa identificar padrões de comportamento, fatores críticos e propor recomendações com base nos dados.
 
 ---
 
@@ -59,4 +59,4 @@ Os principais resultados estão consolidados na apresentação (PowerPoint) entr
 
 ## 🏃‍♂️ Como Executar
 
-1. Abra as pasta "noteobook", baixe o arquivo .ipynb e execute  em Jupyter, VSCode ou Colab
+1. Abra as pasta "noteobook", baixe o arquivo .ipynb e execute  em Jupyter, VSCode ou Colab.
